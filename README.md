@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects that will extend my knowledge of the languages above or anything in the tech field.
 - 📫 How to reach me: Here I suppose.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ¯\_(ツ)_/¯
+- ⚡ Fun fact: ¯\\_(ツ)_/¯
 
 <!---
 MaxxaK/MaxxaK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
