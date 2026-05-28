@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MaxxaK
-- 🌱 I’m currently learning C++ in school, using HTML, CSS, and JS to design portfolios for friends, as well as furthering my knowledge of Java and Python through LeetCode.
-- 💞️ I’m looking to collaborate on any projects that will extend my knowledge of the languages above or anything in the tech field.
-- 📫 How to reach me: LinkedIn
-- ⚡My Experience: 2.5 years Java, 1 year C++, 1 year HTML/CSS, 6 months Python, 6 months Javascript
+- 🌱 Undergraduate Computer Engineering student looking for experience anywhere I can
+- ⚡ Experience in: C++, Java, Python, HTML/CSS
 - ¯\\_(ツ)_/¯
 
 <!---
